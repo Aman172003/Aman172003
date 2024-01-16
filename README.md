@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman172003&label=Profile%20views&color=0e75b6&style=flat" alt="aman172003" /> </p>
 
-- 🔭 I’m currently working on **Yelp-camp**
+- 🔭 I’m currently working on a project (Coffee Plant diease detection and it's causes)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [Portfolio_link_comong_soon](Portfolio_link_comong_soon)
+- 👨‍💻 All of my projects are available at [Portfolio_link_comong_soon](Portfolio_link_coming_soon)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, MERN, PYTHON, C++, C**
 
-- 📫 How to reach me **tej171995@gmail.com**
+- 📫 reach me at **tej171995@gmail.com**
 
-- 📄 Know about my experiences [resume_link_coming_soon](resume_link_coming_soon)
+- 📄 Here is my resume [resume_link_coming_soon](resume_link_coming_soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
