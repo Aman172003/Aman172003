@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman172003&label=Profile%20views&color=0e75b6&style=flat" alt="aman172003" /> </p>
 <div class="d-flex justify-content-center align-items-center">
-  - 🔭 I’m currently working on a project (Coffee Plant diease detection and it's causes)
 
 - 🌱 I’m currently learning **React**
 
@@ -12,8 +11,6 @@
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, MERN, PYTHON, C++, C**
 
 - 📫 Reach me at **tej171995@gmail.com**
-
-- 📄 Here is my resume [resume_link_coming_soon](resume_link_coming_soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
