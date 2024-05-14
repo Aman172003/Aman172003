@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman172003&label=Profile%20views&color=0e75b6&style=flat" alt="aman172003" /> </p>
 <div class="d-flex justify-content-center align-items-center">
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [Portfolio_link_coming_soon](Portfolio_link_coming_soon)
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, MERN, PYTHON, C++, C**
 
