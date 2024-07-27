@@ -1,21 +1,17 @@
-<h1 align="center">Hello 👋, I'm Aman Kumar Rai</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
+<h1 align="center">Hello 👋, I'm Aman Rai</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman172003&label=Profile%20views&color=0e75b6&style=flat" alt="aman172003" /> </p>
 <div class="d-flex justify-content-center align-items-center">
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m diving into IOS Development right now!
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, MERN, PYTHON, C++, C**
+- 💬 Ask me anything about Web Development or iOS Development!
 
-- 📫 Reach me at **tej171995@gmail.com**
+- 📫 Reach me at **aman172003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-kumar-rai-43107621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-rai-43107621b" height="30" width="40" /></a>
 <a href="https://instagram.com/_aman.17._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aman.17._" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amanrai17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amanrai17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tej171995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tej171995" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amanrai_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanrai_17" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amanrai86mu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amanrai86mu" height="30" width="40" /></a>
 </p>
